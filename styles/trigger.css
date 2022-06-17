@@ -1,0 +1,36 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+p{
+    font-size: 25px;
+    line-height: 2;
+
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: 50px;
+
+}
+
+div#kill{
+    line-height: 2;
+    font-size: 25px;
+}
+div#grid{
+    line-height: 2;
+    font-size: 25px;
+}
+div#lulu{
+    line-height: 2;
+    font-size: 25px;
+}
+summary{
+    font-size: 20px;
+}
+.background{
+    background-color: #a2ddff;
+}

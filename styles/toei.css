@@ -1,0 +1,32 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+p{
+    font-size: 25px;
+    line-height: 2;
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: 50px;
+
+}
+
+div#one{
+    line-height: 2;
+    font-size: 25px;
+}
+div#bobo{
+    line-height: 2;
+    font-size: 25px;
+}
+div#dbz{
+    line-height: 2;
+    font-size: 25px;
+}
+summary{
+    font-size: 20px;
+}

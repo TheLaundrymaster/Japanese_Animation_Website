@@ -1,0 +1,52 @@
+p{
+    margin: .5in;
+}
+p, summary {
+    font-size: 25pt;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    line-height: 2;
+}
+.container{
+    height: 100%;
+}
+
+
+
+
+h1 {
+    text-align: center;
+    font-size: 50pt;
+}
+ul{
+    display: inline;
+    list-style-type: none;
+    padding: 0;
+    font-size: 25pt;
+}
+li{
+    display: inline;
+    float: left;
+    font-size: 20pt;
+
+}
+a{
+    margin: .5in;
+    display: block;
+    padding: 8px;
+
+}
+footer{
+    padding: 5px;
+    font-size: 15px;
+}
+div{
+    font-size: 23px;
+}
+img{
+    text-align: center;
+}
+.override{
+    float: none;
+    padding: unset;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}

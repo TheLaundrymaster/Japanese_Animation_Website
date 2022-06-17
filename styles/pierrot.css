@@ -1,0 +1,32 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+p{
+    font-size: 25px;
+    line-height: 2;
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: 50px;
+
+}
+
+div#nar{
+    line-height: 2;
+    font-size: 25px;
+}
+div#ble{
+    line-height: 2;
+    font-size: 25px;
+}
+div#black{
+    line-height: 2;
+    font-size: 25px;
+}
+summary{
+    font-size: 20px;
+}
